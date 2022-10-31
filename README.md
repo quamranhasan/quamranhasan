@@ -32,9 +32,6 @@ Interned as a marketing data analyst and product data analyst where I had to wor
 
 📫 How to reach me:
 <a href="https://www.linkedin.com/in/h-m-quamran-hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/h-m-quamran-hasan/" height="30" width="40" /></a>
-
 <a href="https://www.kaggle.com/quamos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="quamos" height="30" width="40" /></a>
-
 <a href="https://www.instagram.com/quamran_hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quamran_hasan" height="30" width="40" /></a>
-
 <a href="https://www.facebook.com/i.am.quamtastic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/i.am.quamtastic" height="30" width="40" /></a>
