@@ -1,6 +1,6 @@
 ### **Hello** 👋
 
-I am Computer Science and Business Technology Management Double Major at KAIST. 
+I am a Computer Science and Business Technology Management Double Major at KAIST. 
 
 I have a passion for working with data and looking for pattern and insights to aid data-driven decisions.
 
@@ -30,6 +30,8 @@ Interned as a marketing data analyst and product data analyst where I had to wor
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a> 
 <a href="https://analytics.google.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Analytics-Logo-700x394.png" alt="Google Analytics" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com/bigquery/?utm_source=google&utm_medium=cpc&utm_campaign=japac-AU-all-en-dr-bkws-all-super-trial-e-dr-1009882&utm_content=ims_text-ad-none-none-DEV_c-CRE_602548985252-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Data%20Analytics%20~%20BigQuery_Business%20Services-bigquery-KWID_43700071562513913-aud-1596662390094%3Akwd-47616965283&userloc_1009880-network_g&utm_term=KW_bigquery&gclid=CjwKCAjw5P2aBhAlEiwAAdY7dOORnfNpeDwn7GLV8CdweTYpBtDsuSW-NtBM_eWq8II4NoogwsKJHRoCtnQQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1-1024x577.png" alt="BigQuery" width="40" height="40"/> </a> 
+
+<a href="https://tagmanager.google.com/" target="_blank" rel="noreferrer"> <img src="https://simonpointer.com/wp-content/uploads/2020/08/google-tag-manager-1024x576.png" alt="Google Tag Manager" width="40" height="40"/> </a> 
 
 📫 How to reach me:
 <a href="https://www.linkedin.com/in/h-m-quamran-hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/h-m-quamran-hasan/" height="30" width="40" /></a>
