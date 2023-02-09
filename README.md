@@ -1,10 +1,10 @@
 ### **Hello** 👋
 
-I am a Computer Science and Business Technology Management Double Major at KAIST. 
+I was born and raised in Bangladesh and currently, I am an 8th-semester undergraduate pursuing a Double Major in Computer Science and Business Technology Management at the Korea Advanced Institute of Science and Technology(KAIST).
 
-I have a passion for working with data and looking for pattern and insights to aid data-driven decisions.
+I am now working as a Data Science Intern for SicPama where I rumble with their data collection, analyze the data and tell stories with data so that my non-technical coworkers can make sense of the data. From not having written a single line of code prior to university, now I live a life where I have a domestic relationship with Python. Having similar past experiences in other internships I have grown a liking for Marketing Research and Data Analytics.
 
-Interned as a marketing data analyst and product data analyst where I had to work with DBMS like MySQL and tools like GA4 and Firebase and used python and related libraries to aid the content production team and ended up improving user interaction on the application by three times. 
+Finally, I love to read books, especially thrillers by Dan Brown, and I love playing instruments like the guitar and drums.
 
 <p>&nbsp;<img align ="right" src="https://github-readme-stats.vercel.app/api?username=quamranhasan&show_icons=true&locale=en" alt="quamranhasan" /></p>
 
