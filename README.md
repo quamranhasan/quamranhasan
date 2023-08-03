@@ -6,7 +6,6 @@ My passion for data extends beyond mere interpretation; I aim to utilize these i
 
 In addition, I am currently engrossed in cutting-edge research on distributed systems and the efficient training of transformer models. My ultimate goal is to create and refine the technology that facilitates streamlined and accessible data processing. I am not just a student of technology, but a fervent explorer, eager to make meaningful contributions to the vast and ever-evolving tech universe. Through rigorous academic and practical pursuits, I am committed to advancing the future of data science and distributed systems.
 
-<p>&nbsp;<img align ="right" src="https://github-readme-stats.vercel.app/api?username=quamranhasan&show_icons=true&locale=en" alt="quamranhasan" /></p>
 
 #### Programming Skills
 - Python (4 years)
