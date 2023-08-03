@@ -1,10 +1,10 @@
-### **Hello** 👋
+### Welcome to my Github 👍
 
-I was born and raised in Bangladesh and currently, I am an 8th-semester undergraduate pursuing a Double Major in Computer Science and Business Technology Management at the Korea Advanced Institute of Science and Technology(KAIST).
+With a compelling academic foundation in Computer Science and Business Technology Management from KAIST, I am a dedicated and passionate scholar currently undertaking my 9th semester. My past internships have been focused on the data science and analytics industry, where I excelled at manipulating data and narrating meaningful stories from complex numerical narratives. 
 
-I am now working as a Data Science Intern for SicPama where I rumble with their data collection, analyze the data and tell stories with data so that my non-technical coworkers can make sense of the data. From not having written a single line of code prior to university, now I live a life where I have a domestic relationship with Python. Having similar past experiences in other internships I have grown a liking for Marketing Research and Data Analytics.
+My passion for data extends beyond mere interpretation; I aim to utilize these insights to drive strategic decisions within organizations, boosting their efficiency and effectiveness. My experience has allowed me to develop excellent leadership and teamwork skills, equipping me with the ability to thrive in both individual and collaborative environments.
 
-Finally, I love to read books, especially thrillers by Dan Brown, and I love playing instruments like the guitar and drums.
+In addition, I am currently engrossed in cutting-edge research on distributed systems and the efficient training of transformer models. My ultimate goal is to create and refine the technology that facilitates streamlined and accessible data processing. I am not just a student of technology, but a fervent explorer, eager to make meaningful contributions to the vast and ever-evolving tech universe. Through rigorous academic and practical pursuits, I am committed to advancing the future of data science and distributed systems.
 
 <p>&nbsp;<img align ="right" src="https://github-readme-stats.vercel.app/api?username=quamranhasan&show_icons=true&locale=en" alt="quamranhasan" /></p>
 
