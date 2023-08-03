@@ -1,4 +1,4 @@
-### Welcome to my Github 👍
+### Welcome to my Github 👋
 
 With a compelling academic foundation in Computer Science and Business Technology Management from KAIST, I am a dedicated and passionate scholar currently undertaking my 9th semester. My past internships have been focused on the data science and analytics industry, where I excelled at manipulating data and narrating meaningful stories from complex numerical narratives. 
 
