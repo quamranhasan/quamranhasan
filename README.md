@@ -1,34 +1,21 @@
 ### Welcome to my Github 👋
 
-With a compelling academic foundation in Computer Science and Business Technology Management from KAIST, I am a dedicated and passionate scholar currently undertaking my 9th semester. My past internships have been focused on the data science and analytics industry, where I excelled at manipulating data and narrating meaningful stories from complex numerical narratives. 
+A recent graduate from KAIST with a double major in Computer Science and Business Technology Management.
 
-My passion for data extends beyond mere interpretation; I aim to utilize these insights to drive strategic decisions within organizations, boosting their efficiency and effectiveness. My experience has allowed me to develop excellent leadership and teamwork skills, equipping me with the ability to thrive in both individual and collaborative environments.
+I love to rumble with data collection, and analysis and tell stories with data. From not having written a single line of code prior to university, now I live a life where I have a domestic relationship with Python. Having past experiences in several internships I have grown a liking for Marketing Research and Data Analytics.
 
-In addition, I am currently engrossed in cutting-edge research on distributed systems and the efficient training of transformer models. My ultimate goal is to create and refine the technology that facilitates streamlined and accessible data processing. I am not just a student of technology, but a fervent explorer, eager to make meaningful contributions to the vast and ever-evolving tech universe. Through rigorous academic and practical pursuits, I am committed to advancing the future of data science and distributed systems.
+Apart from industry experience, I have fathomed research experience in the fields of transformers and Large Language Models, especially when it comes to tasks relevant to low-resource languages.
 
+Finally, I love to read books, especially thrillers by Dan Brown, and I love playing instruments like the bass and drums.
 
-#### Programming Skills
-- Python (4 years)
-- SQL (2 years)
-- C (2 years)
-- JAVA (2 years)
-- SCALA (1 year)
-- F# (1 year)
+#### Languages: 
+Python (4 years), SQL (2 years), C (2 years), JAVA (1 year)
 
-#### Frameworks and Tools
-- TensorFlow
-- Keras
-- ScikitLearn
-- Pandas
-- Seaborn
-- Tableau
-- MySQL
-- Google Analytics
-- Google BigQuery
-- Google Tag Manager
-- Hotjar
-- IBM SPSS Statistics
-- Figma
+#### Development and Tools: 
+Django ORM, Amazon Web Services, TensorFlow, PyTorch, Keras, Hotjar, Figma, IBM SPSS Statistics, SAP Analytics Cloud, Redash, Selenium
+
+#### Data and Visualization: 
+Google Analytics, Google Tag Manager,  Google BigQuery, Tableau, MySQL, PostgreSQL, Pandas, NumPy, Scikit Learn, Seaborn, A/B Testing, Data Mining, Data Management
 
 #### Contact
 <a href="https://www.linkedin.com/in/h-m-quamran-hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/h-m-quamran-hasan/" height="30" width="40" /></a>
