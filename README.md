@@ -1,6 +1,6 @@
-### Welcome to my Github 👋
+### Hi there👋
 
-A recent graduate from KAIST with a double major in Computer Science and Business Technology Management.
+I am a recent graduate from KAIST with a double major in Computer Science and Business Technology Management.
 
 I love to rumble with data collection, and analysis and tell stories with data. From not having written a single line of code prior to university, now I live a life where I have a domestic relationship with Python. Having past experiences in several internships I have grown a liking for Marketing Research and Data Analytics.
 
