@@ -1,13 +1,12 @@
-### Hi there👋
+### Hello
 
-I am a recent graduate from KAIST with a double major in Computer Science and Business Technology Management.
+I hold a Bachelor's degree in Computer Science with a double major in Business Technology Management from KAIST, where I graduated Cum Laude. Currently, I'm pursuing a Master's in Computer Science at the University of Alberta, focusing on the integration of LLMs with medical and legal data.
 
-I love to rumble with data collection, and analysis and tell stories with data. From not having written a single line of code prior to university, now I live a life where I have a domestic relationship with Python. Having past experiences in several internships I have grown a liking for Marketing Research and Data Analytics.
+My professional journey includes industry internships where I've sharpened my skills as a Data Scientist, Data Analyst, and AI Engineer. These roles have equipped me with practical experience in applying advanced data techniques to solve real-world problems. Not only have I worked with textual data to derive insights for business, but also with medical images and built models for classification and object detection to enforce current progress in cancer research.
 
-Apart from industry experience, I have fathomed research experience in the fields of transformers and Large Language Models, especially when it comes to tasks relevant to low-resource languages.
+In addition to my industry experience, I have a strong research background, particularly in the field of Large Language Models (LLMs). My work has centered on evaluating the performance of LLMs in low-resource languages, contributing to the broader understanding of AI's capabilities and limitations.
 
-Finally, I love to read books, especially thrillers by Dan Brown, and I love playing instruments like the bass and drums.
-
+Apart from all these I also love reading thrillers and playing the drums.
 #### Languages: 
 Python (4 years), SQL (2 years), C (2 years), JAVA (1 year)
 
