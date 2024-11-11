@@ -7,14 +7,14 @@ My professional journey includes industry internships where I've sharpened my sk
 In addition to my industry experience, I have a strong research background, particularly in the field of Large Language Models (LLMs). My work has centered on evaluating the performance of LLMs in low-resource languages, contributing to the broader understanding of AI's capabilities and limitations.
 
 Apart from all these I also love reading thrillers and playing the drums.
-#### Languages: 
-Python (4 years), SQL (2 years), C (2 years), JAVA (1 year)
+#### Programming Languages: 
+Python, SQL, C, Java
 
-#### Development and Tools: 
-Django ORM, Amazon Web Services, TensorFlow, PyTorch, Keras, Hotjar, Figma, IBM SPSS Statistics, SAP Analytics Cloud, Redash, Selenium
+#### Frameworks & Tools: 
+Django ORM, TensorFlow, PyTorch, Keras, Pandas, NumPy, Scikit-Learn, Seaborn, Selenium, OpenCV, Figma, Hotjar, Redash, Git
 
-#### Data and Visualization: 
-Google Analytics, Google Tag Manager,  Google BigQuery, Tableau, MySQL, PostgreSQL, Pandas, NumPy, Scikit Learn, Seaborn, A/B Testing, Data Mining, Data Management
+#### Cloud Computing & Data Management: 
+AWS, Google BigQuery, Google Analytics, Google Tag Manager, Tableau, MySQL, PostgreSQL, IBM SPSS Statistics, SAP Analytics Cloud
 
 #### Contact
 <a href="https://www.linkedin.com/in/h-m-quamran-hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/h-m-quamran-hasan/" height="30" width="40" /></a>
