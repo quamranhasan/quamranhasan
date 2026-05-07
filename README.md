@@ -1,5 +1,3 @@
-## Hello
-
 I am a Master's student in Computer Science at the University of Alberta, with a background in Computer Science and Business Technology Management from **KAIST**.
 
 My interests lie in **NLP**, **explainable AI**, and **trustworthy large language model applications** for clinical and legal reasoning.
